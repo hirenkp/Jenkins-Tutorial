@@ -10,7 +10,7 @@ namespace JenkinsTest
 		[TestMethod]
 		public void TestMethod1()
 		{
-			Assert.AreEqual(Program.CreateMessage(), "Hello World");
+			Assert.AreEqual(Program.CreateMessage(), "Hello World 2");
 		}
 	}
 }

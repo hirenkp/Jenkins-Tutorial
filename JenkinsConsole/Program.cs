@@ -16,7 +16,7 @@ namespace JenkinsConsole
 
 		public static string CreateMessage()
 		{
-			return "Hello World 3";
+			return "Hello World 4";
 		}
 	}
 }
